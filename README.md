@@ -6,7 +6,9 @@ Polyscope is included as a submodule.
 
 Take a look at the `main.cpp` file to get an idea on how to use openmesh with polyscope
 
-It currently shows the following 
+![OpenMesh in Polyscope](data/polyscope.png)
+
+It currently contains the following features
 1. Visualizing a mesh
 2. Calculating feature edges using openMesh and visualizing the same as a curve network in polyscope
 3. Visualizing a random scalar field stored in vertices
